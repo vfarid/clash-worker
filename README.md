@@ -5,9 +5,7 @@
 
 ### یوتیوب
 
-<!-- - [بخش اول، ساخت ورکر همراه آی‌پی تمیز](https://youtu.be/oxYoILJ9Hgk)
-- [بخش دوم، اضافه کردن لینک کلش به ماسوری](https://youtu.be/Pq5FWdG31Yc) -->
-To be completed...
+[آموزش راه‌اندازی و فعال کردن کد ورکر کلش](https://youtu.be/8lRo7diMkbk)
 
 ### تلگرام
 
