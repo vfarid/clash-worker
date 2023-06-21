@@ -2962,6 +2962,7 @@ var clash = {
   rules: [
     "GEOIP,IR,DIRECT",
     "DOMAIN-SUFFIX,ir,DIRECT",
+    "GEOIP,private,DIRECT,no-resolve",
     "MATCH,All"
   ]
 };
