@@ -2908,7 +2908,7 @@ function mixConfig(cnf, url, ip, operator, provider) {
     } else {
       conf.server = domainList[Math.floor(Math.random() * domainList.length)];
     }
-    conf.path = "/" + addr + (conf["ws-opts"].path ? "/" + conf["ws-opts"].path.replace(/^\//g, "") : "");
+    conf["ws-opts"].path = "/" + addr + (conf["ws-opts"].path ? "/" + conf["ws-opts"].path.replace(/^\//g, "") : "");
     conf.provider = provider;
     conf.merged = true;
     return conf;
